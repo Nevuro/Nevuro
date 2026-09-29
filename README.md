@@ -54,7 +54,7 @@ Management, accounting, POS, inventory, and reporting systems.
 
 **Stack:** `Python` `Flask` `SQLite`
 
-<a href="https://github.com/Nevuro/REPO-NAME">
+<a href="https://github.com/Nevuro/personal_sales_tracker">
 View project →
 </a>
 
@@ -68,7 +68,7 @@ Bots, monitoring tools, API integrations, and workflow automation.
 
 **Stack:** `Python` `APIs` `Telegram`
 
-<a href="https://github.com/Nevuro/REPO-NAME">
+<a href="https://github.com/Nevuro/system_monitoring_script">
 View project →
 </a>
 
@@ -84,7 +84,7 @@ Networking utilities and tools built for experimentation and learning.
 
 **Stack:** `Python` `Networking`
 
-<a href="https://github.com/Nevuro/REPO-NAME">
+<a href="https://github.com/Nevuro/Port_scanner">
 View project →
 </a>
 
@@ -98,7 +98,7 @@ Small projects exploring new technologies, ideas, and development techniques.
 
 **Stack:** `Python` `JavaScript` `React`
 
-<a href="https://github.com/Nevuro/REPO-NAME">
+<a href="https://github.com/Nevuro/restaurant-system">
 View project →
 </a>
 
@@ -122,19 +122,7 @@ AI-assisted development, agents, and experimental tools.
 🐧 **Infrastructure**
 Linux servers, networking, self-hosting, and homelab projects.
 
----
 
-## GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nevuro&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nevuro&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top languages">
-
-</div>
-
----
 
 <div align="center">
 
